@@ -3,7 +3,7 @@
 AdmiralLinks is a very small library for hiding your site's links from search robots.
 
 * Fast install and usage
-* Current version size: 0.270KB
+* Current version size: 0.447KB
 * Current version size (alternative): 0.372KB
 
 ## Usage
