@@ -11,6 +11,7 @@ AdmiralLinks is a very small library for hiding your site's links from search ro
 ```
 <span data-uri="https://google.ru">Open link</span>
 <span data-uri="https://google.ru" data-target="_blank">Open link in new tab</span>
+<span data-uri="https://google.ru" data-target="_window">Open link in new small window</span>
 ```
 
 ## Usage (Alternative Version)
